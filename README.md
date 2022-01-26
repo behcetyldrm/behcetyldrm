@@ -1,6 +1,5 @@
 - 👋 Merhaba ben Behçet Emre Yıldırım
-- 👀 Futbol ve yazılım ile ilgileniyorum
-- 🌱 Şu anda python ve kotlin öğreniyorum
+- 🌱 Şu anda python öğreniyorum
 - 📫 Mail adresim -> behcetyldrm10@gmail.com
 
 <!---
