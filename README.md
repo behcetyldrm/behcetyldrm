@@ -1,5 +1,4 @@
 - 👋 Merhaba ben Behçet Emre Yıldırım
-- 🌱 Şu anda python öğreniyorum
 - 📫 Mail adresim -> behcetyldrm10@gmail.com
 
 <!---
