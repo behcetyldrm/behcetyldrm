@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Behçet Emre Yıldırım
 - 👨🏽‍💻 I'm working on Android app development with Kotlin
-- 👨🏽‍🎓 I'm a student of Şükrü Şankaya High School
+- 👨🏽‍🎓 I'm a student of Şükrü Şankaya Anatolian High School
 - 📫 Contact -> behcetyldrm10@gmail.com
 
 <!---
