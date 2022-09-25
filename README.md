@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Behçet Emre Yıldırım
-- 💻 I'm working on Android app development with Kotlin
+- 💻 I'm working on Artifical Intelligence with Python
 - 🎓 I'm a student at Şükrü Şankaya Anatolian High School
 - 📫 Contact -> behcetyldrm10@gmail.com
 
